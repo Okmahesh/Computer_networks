@@ -31,10 +31,13 @@ Q4. To create Bus, Ring, Tree, Hybrid, Mash topologies.
 ![image](https://github.com/Okmahesh/Computer_networks/assets/118921585/473b1e9c-2ec8-40bf-b069-e47913acec40)
 
 Q5. Perform an initial Switch configuration.
+
 ![image](https://github.com/Okmahesh/Computer_networks/assets/118921585/14ac78e5-22eb-43b9-8a99-3368b575e6e7)
 
 Name
+
 ![image](https://github.com/Okmahesh/Computer_networks/assets/118921585/5ad2b673-9cc4-4f21-9e24-e577dca88c79)
 
 password
+
 ![image](https://github.com/Okmahesh/Computer_networks/assets/118921585/e863fbbe-d908-477d-8606-25aa8fd23345)
